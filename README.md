@@ -184,3 +184,4 @@ python dexcom_webserver.py
 ## 📄 Licens
 
 Detta projekt är öppen källkod och licensierat under MIT License.
+

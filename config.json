@@ -1,0 +1,8 @@
+{
+  "dexcom_username": "",
+  "dexcom_password": "",
+  "dexcom_region": "ous",
+  "hub_name": "",
+  "hub_ip": "",
+  "server_port": 8080
+}
